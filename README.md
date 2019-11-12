@@ -1,5 +1,6 @@
 [![](https://quay.io/repository/biocontainers/biobb_io/status)](https://hub.docker.com/r/afandiadib/ambertools)
 [![](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/3783)
+[![](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Ambertools singularity
 

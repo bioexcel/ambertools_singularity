@@ -12,13 +12,13 @@ Ambertools singularity container used for [biobb_analysis](https://github.com/bi
 * Installation:
 
 
-        singularity pull shub://bioexcel/ambertools_singularity
+        singularity pull --name ambertools.sif shub://bioexcel/ambertools_singularity
 
 
 * Usage:
 
 
-        singularity exec bioexcel-ambertools_singularity-master-latest.simg <command>
+        singularity exec ambertools.sif <command>
 
 
 ### Copyright & Licensing
